@@ -1,4 +1,4 @@
-package com.cs4520.assignment5
+package com.cs4520.assgn5
 
 import org.junit.Test
 
