@@ -20,7 +20,7 @@ import com.cs4520.assgn5.ui.theme.Assgn5Theme
 import com.cs4520.assgn5.workmanager.ApiWorker
 import java.util.concurrent.TimeUnit
 
-class MainActivity : ComponentActivity() {
+class AmazingProductsActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
        //Schedule with WorkManger
